@@ -1,0 +1,13 @@
+body  {
+	background: deepskyblue;
+}
+ header {
+      text-align: center;
+      background: url('Imagez');
+      background-size: cover;
+      color: white;
+ }
+  li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
