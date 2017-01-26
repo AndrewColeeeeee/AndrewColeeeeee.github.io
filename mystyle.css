@@ -1,22 +1,19 @@
 body  {
-	background: url("");
+	background: url("Space.jpg");
 	color: gold;
 }
  header {
       text-align: center;
-      background: url("");
+      background: url("What.jpg");
       background-size: cover;
-      color: gold;
+      color: white;
  }
   li {
       display: inline;
       padding: 0px 10px 0px 10px;
     }
 header {
-      text-align: center;
-      background: url('What.jpg');
-      background-size: cover;
-      color: white;
+     
     }
     a {
       color: white;
