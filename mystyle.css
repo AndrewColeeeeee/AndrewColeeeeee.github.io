@@ -1,10 +1,10 @@
 body  {
-	background: url("rain.jpg");
+	background: url("What.jpg");
 	color: black;
 }
  header {
       text-align: center;
-      background: url("What.jpg");
+      background: url("rain.jpg");
       background-size: cover;
       color: white;
  }
